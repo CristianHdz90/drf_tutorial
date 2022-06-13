@@ -1,2 +1,2 @@
-# drf_tutorial
+# DRF tutorial
 Official tutorial of Django REST Framework  
